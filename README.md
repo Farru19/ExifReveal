@@ -1,6 +1,6 @@
 # Simple Metadata Extractor
 
-This Python script extracts basic metadata from image (JPEG, PNG) and PDF files.
+ExifReveal is a Python tool that extracts metadata from common file types, including images and PDFs. It allows users to view information such as camera settings, author details, and other embedded data.
 
 ## Usage
 
