@@ -24,6 +24,7 @@ python metadata_extractor.py document.pdf
 ## Dependencies
 
 Pillow (PIL): For image metadata extraction.
+
 PyPDF2: For PDF metadata extraction.
 
 Install dependencies:
